@@ -32,8 +32,8 @@ namespace TP2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (label2.Text != String.Empty)
-                label2.Text = (Int32.Parse(label2.Text) + 2).ToString();
+            if (label1.Text != String.Empty)
+                label1.Text = (Int32.Parse(label1.Text) -1).ToString();
         }
     }
 }
