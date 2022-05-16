@@ -27,7 +27,7 @@ namespace TP2
         {
             if (label1.Text != String.Empty)
                 label1.Text = (Int32.Parse(label1.Text) + 1).ToString();
-
+        //gjhgjkhggkjgkjhgjk
         }
     }
 }
